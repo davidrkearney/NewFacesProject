@@ -1,0 +1,8 @@
+seaborn
+pandas
+numpy
+pandas_profiling
+sklearn
+matplotlib
+jupyterthemes 
+imblearn 
